@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: rgb(42, 188, 246);
+}
+#board{
+    
+    background-image: url('images/bg.jpg');
+    background-size: cover;
+}
